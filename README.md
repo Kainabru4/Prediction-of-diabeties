@@ -8,13 +8,13 @@ This project investigates the effectiveness of classical machine learning models
 
 ## 📂 Project Structure
 
----
+```
 Diabetes-ML-Project/
 ├── PimaIndiansDiabetes.csv       # Original dataset
 ├── ProjektML_Final.ipynb         # Jupyter notebook with full analysis
 ├── requirements.txt              # Python dependencies
 └── .gitignore                    # Git ignored files
----
+```
 
 ---
 
@@ -25,7 +25,7 @@ Clone the repository:
 ```powershell
 git clone https://github.com/your-username/Diabetes-ML-Project.git
 cd Diabetes-ML-Project
----
+```
 
 Create a virtual environment and install dependencies:
 
@@ -33,7 +33,7 @@ Create a virtual environment and install dependencies:
 python -m venv venv
 .\venv\Scripts\activate.ps1
 pip install -r requirements.txt
----
+```
 
 ---
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ---
 
-📊 Dataset Information
+## 📊 Dataset Information
 
 - Source: Pima Indians Diabetes Dataset on Kaggle
 - Samples: 768
